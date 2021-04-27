@@ -17,7 +17,7 @@ remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Jisu's"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MoonJisu"
@@ -95,15 +95,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "MoonJisu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am an iOS Developer."
+  location         : "Daejeon/Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:awt0311@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
