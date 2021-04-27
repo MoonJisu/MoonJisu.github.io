@@ -17,7 +17,7 @@ remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jisu's"
+title                    : "Jisu's github blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MoonJisu"
